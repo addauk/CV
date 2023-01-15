@@ -1,31 +1,31 @@
-## Your Name
+## Adam Evans
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Completed my CS degree in 2012 before working as a Technical Project Manager and then a teacher of Computer Science. Finally getting back to hands-on development and love learning new skills.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **TBC**                      |                   |                   |
+
 
 ## Work Experience
 
 **Company Name** (start-date to end-date)  
 _Your job title_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Any experience, including roles and responsibilities and results achieved in bullet point format.
 
 **Company Name** (start-date to end-date)  
 _Your job title_
 
-- Any experience relevent to software development
+- Any experience relevant to software development
 
 ## Skills
 
 Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+Consider skills relevant to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevant to technology. Good examples clearly explain the impact you've had. 
 
 
 Here's an example
@@ -45,20 +45,20 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (Nov 2022 to Apr 2023)
+- *Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)*
+- *e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.*
+- *you might also mention aspects some other skills/knowledge listed below:* 
+- *OOP, TDD, MVC, DDD*
+- *Agile/XP*
+- *Ruby, Rails, JavaScript*
+- *RSpec, Jasmine*
 
-#### Your University / College (start_date to end_date)
+#### City University London (2008-2012)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc (Hons) Computer Science 1st Class
+- Year in industry working as an iOS developer for ustwo studios
+    - Solo developed one app and worked maintenance on many others
 
 #### Any other qualifications
 
@@ -66,4 +66,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Love modern boardgames for probably the same reason as development, provides multiple sandboxes of rules and procedures to learn before attempting to turn them towards your own purpose. That and it's a relaxed social activity away from a screen.
